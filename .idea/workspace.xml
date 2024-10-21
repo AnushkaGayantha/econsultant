@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92dde983-d1e6-4d4a-8c99-3c5d93a4ad49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestLoginPage/TestLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTestPage/LoginTestPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseDriver/Base_Driver.java" afterDir="false" />
+    <list default="true" id="92dde983-d1e6-4d4a-8c99-3c5d93a4ad49" name="Changes" comment="E-Consulatant">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestLoginPage/TestLoginSuccessfully.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestLoginPage/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestLoginPage/TestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTestPage/LoginTestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTestPage/LoginTestPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseDriver/Base_Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseDriver/Base_Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +123,14 @@
       <option name="presentableId" value="Default" />
       <updated>1729493452134</updated>
     </task>
+    <task id="LOCAL-00001" summary="E-Consulatant">
+      <created>1729522191702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729522191702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="E-Consulatant" />
+    <option name="LAST_COMMIT_MESSAGE" value="E-Consulatant" />
   </component>
 </project>

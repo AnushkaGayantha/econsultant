@@ -16,10 +16,10 @@ public class TestLogin {
         this.driver= driver;
         this.usernameFiled = By.id("username");
         this.passwordField = By.id("password");
-        this.passwordField = By.id("submit");
+        this.loginButton = By.id("submit");
     }
-    public void setLoginButton(By loginButton) {
-        this.loginButton = loginButton;
+    public void setLoginButton() {
+        driver.findElement(this.loginButton).click();
     }
 
     public void setUsernameFiled(String usernameFiledValue) {
