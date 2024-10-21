@@ -7,7 +7,7 @@ import org.testng.annotations.BeforeClass;
 public class Base_Driver {
 
 
-    private WebDriver driver;
+    protected WebDriver driver;
     //private LoginTestPage loginTestPage;
 
 
